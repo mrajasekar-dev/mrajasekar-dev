@@ -13,7 +13,7 @@ Passionate Salesforce Developer with **4+ years experience** building scalable C
 ---
 
 ### **CONNECT WITH ME**  
-- **LinkedIn**: [linkedin.com/in/rajasekar1999](https://www.linkedin.com/in/rajasekar1999)  
+- **LinkedIn**: [linkedin.com/in/mrajasekar-dev](https://www.linkedin.com/in/mrajasekar-dev)  
 - **GitHub**: [github.com/mrajasekar-dev](https://github.com/mrajasekar-dev)
 - **Twitter**: [x.com/mrajasekar_dev](https://x.com/mrajasekar_dev)
 - **Email**: mrajasekar.dev@gmail.com  
