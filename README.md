@@ -1,8 +1,4 @@
-# Rajasekar M  
-
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHWosc8rdik-w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735906399064?e=1749081600&v=beta&t=EcQqnegx8LkDzc1UOEXlVKPLoNu7h487cwr7kAr7MCI" alt="Salesforce Development Banner" width="100%">
-</div>
+# Rajasekar M
 
 #### Salesforce Developer @ Salesforce  
 
